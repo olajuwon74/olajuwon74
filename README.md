@@ -6,7 +6,7 @@
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olajuwon74&theme=dark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on building amazing things and inventing cool ideas
-- 🌱 I’m currently learning Rust, GO and ZK proof
+- 🌱 I’m currently learning Rust and ZK proof
 - 👯 I’m looking to collaborate on Smart Contract Development
 - 🤔 I’m looking for help with Protocol development
 - 💬 Ask me about How to distrupt the web3 space 
