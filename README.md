@@ -2,7 +2,6 @@
 ### I am ADEBAYO, A seasoned  Solidity Smart Contract Developer
 ### 
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olajuwon74&show_icons=true&theme=radical) 
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olajuwon74&theme=dark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on building amazing things and inventing cool ideas
